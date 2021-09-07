@@ -1,5 +1,5 @@
 import { render } from 'react-dom';
-import UserSearch from './state/UserSearch';
+import UserSearch from './refs/UserSearch';
 
 const App = () => {
   return (
