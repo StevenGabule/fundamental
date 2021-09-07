@@ -1,0 +1,24 @@
+{
+  "name": "development_workflow",
+  "description": "learn about the development workflow",
+  "main": "index.js",
+  "authors": [
+    "john paul"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/StevenGabule/fundamental",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^3.9.0"
+  }
+}

@@ -1,0 +1,7 @@
+typescript
+- a javascript superset
+- language building up on javascript
+- adds new features + advantages to javascript
+- browser can't execute it!
+
+- tool and compile your code into javascript
